@@ -5,7 +5,7 @@
 - You will get a "CKK0012-main"ZIP file in your computer when the download task is finished,
 - ! Unzip the ZIP file instead of opening the file in the ZIP file directly.
 - ! Do not move, delete or rename files in the folder just unzipped.
-- 
+![Image text](https://github.com/Cokoino/Image/blob/d241f581d3772b7ea01d50ce2efad283784a177e/CKK0012.png)
 # CKK0012
 COKOINO Mg90s Micro Servo Kit
 
